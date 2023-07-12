@@ -7,12 +7,12 @@ description: 'Neste primeiro post, falarei um pouco das minhas experiencias!'
 ## 🔰Introdução
 
 Fala devs tudo joia?
-Pra quem não me conhece, sou o Natã Martins Software Engineer a 2nos!
+Pra quem não me conhece, sou o Natã Martins.
 Bom o intuito deste primeiro post é apenas me apresentar e falar um pouco sobre meu Blog.
 
 ## 🎯Sobre min
 
-Sou o Natã Martins, Software Developer a 2 anos!
+Sou o Natã Martins, Software Engineer a 2 anos!
 Bom, o intuito deste primeiro post é apenas me apresentar e falar um pouco sobre meu Blog.
 
 Sou um cara totalmente extrovertido e animado, gosto de adrenalina, do tipo montanha russa, pular de paraquedas um dia! haha, e  vocês curte uma adrenalina? comenta lá embaixo!
