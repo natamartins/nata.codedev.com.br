@@ -1,18 +1,27 @@
+.box_posts-container {
+    width: 100%;
+    max-width: 85%;
+    margin: auto;
+    margin-top: 2rem;
+    display: flex;
+    flex-direction: column;
+}
+
 .box_container-posts {
     overflow-y: scroll;
 }
 
 .box_posts {
-    width: 100%;
-    max-width: 85%;
-    margin: auto;
-    margin-top: 2rem;
-
     border: 3px solid #f1f1f1;
     border-radius: 10px;
     padding: 1rem;
     cursor: pointer;
     animation: ease-in-out;
+    margin-left: -0.5rem;
+
+    &:hover {
+        border-color: #551a8b;
+    }
 
     a {
         color: #f1f1f1;

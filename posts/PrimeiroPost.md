@@ -4,9 +4,6 @@ subtitle: "Espero que curtam!"
 date: 07/12/2023
 description: 'Neste primeiro post, falarei um pouco das minhas experiencias!'
 ---
-
-![corrida](/public/imgs/corrida.jpg).
-
 ## 🔰Introdução
 
 Fala devs tudo joia?
@@ -26,24 +23,25 @@ Uma de 10km e a outra de 5km
 
 ### 🤳Fotos da Corrida
 
- 10 km
-![Primeira Corrida](/public/imgs/img01.jpg)
- 5 km
-![Segunda Corrida](/public/imgs/img02.jpg)
+![Primeira Corrida](/images/img01.jpg)
+![Segunda Corrida](/images/img02.jpg)
 
 E não menos importante, participei da maior corrida com obstáculos do Brasil que ocorreu em BH. Nome do evento:[Bravus](https://www.instagram.com/bravus_race/?theme=dark).
 Eu é meu primo, fomos os primeiros a chegar  do nosso pelotão, sem querer se gabar mas passamos pessoas de outros pelotão, HAHaI! Terminamos a corrida em menos de 1 horinha.
 
 Forão 5km com 15 obstaculos.
-![mapa da corrida](/public//imgs/img06.jpg).
+
+### Mapa da corrida
+
+![mapa da corrida](/images/img06.jpg).
 
 ### A maior corrida com obstaculos do brasil
 
 Finalizada em: 54:00 minutos! 🦾
 
-![pós corrida ](../public/imgs/img03.jpg).
-![pós corrida ](/public/imgs/img04.jpg).
-![pós corrida ](/public/imgs/img05.jpg).
+![pós corrida ](/images/img03.jpg).
+![pós corrida ](/images/img04.jpg).
+![pós corrida ](/images/img05.jpg).
 
 Estou sempre à procura de aprender coisas novas, em busca de novas oportunidades que me tragam experiências de vida!
 
