@@ -77,3 +77,17 @@
     padding: 1rem 0px;
     text-align: center;
 }
+
+@media (max-width: 70rem) {
+    .box_post {
+        margin-top: 1rem;
+    }
+
+    .box_post-comment {
+        padding: 10px;
+    }
+
+    .box_comment {
+        margin-left: 0px;
+    }
+}

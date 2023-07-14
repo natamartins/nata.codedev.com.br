@@ -23,6 +23,10 @@
     }
 }
 
+.box_about-me-container {
+    margin-bottom: 5rem;
+}
+
 .box_about-socialmidia {
     position: absolute;
     display: flex;
@@ -31,5 +35,56 @@
 
     a:hover {
         color: #f1f1f1;
+    }
+}
+
+@media (max-width: 70rem) {
+    .box_about-me {
+        width: 100%;
+        flex-direction: initial;
+        gap: 10px;
+        align-items: center;
+        background-color: #333;
+        padding: 10px;
+        position: fixed;
+        justify-content: space-between;
+        align-items: center;
+
+        img {
+            width: 5rem;
+            height: 5rem;
+        }
+    }
+
+    .box_about-me-container {
+        margin-bottom: 0px;
+    }
+
+    .box_about-me-info {
+        p:nth-child(3) {
+            display: none;
+        }
+    }
+
+    .box_about-me-container {
+        display: flex;
+        align-items: center;
+        gap: 1rem;
+    }
+
+    .box_about-socialmidia {
+        display: none;
+    }
+
+    .box_about-me-info {
+        text-align: initial;
+
+        h1 {
+            font-size: 1rem;
+        }
+    }
+
+    .box_about-spotfy {
+        height: 5rem;
     }
 }

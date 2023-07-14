@@ -9,17 +9,21 @@ const AboutMe = () => {
 
     return (
         <div className="box_about-me">
-            <Image src={Img} alt="" />
-            <h1>Natã Martins</h1>
-            <p>Software Developer</p>
-            <p>Escrevo sobre o mundo front end e vida pessoal.</p>
+            <div className='box_about-me-container'>
+                <Image src={Img} alt="" />
+                <div className='box_about-me-info'>
+                    <h1>Natã Martins</h1>
+                    <p>Software Developer</p>
+                    <p>Escrevo sobre o mundo front end e vida pessoal.</p>
+                </div>
+            </div>
             <div className="box_about-spotfy">
                 <iframe
                     title="Spotify Embed: Recommendation Playlist "
                     src={`https://open.spotify.com/embed/playlist/5clqcIWc4LAua1EqOojVPc`}
                     width="100%"
                     height="100%"
-                    style={{ minHeight: '150px', borderRadius: '15px' }}
+                    style={{ borderRadius: '15px' }}
                     allow="clipboard-write; encrypted-media; fullscreen; picture-in-picture"
                     loading="lazy"
                 />

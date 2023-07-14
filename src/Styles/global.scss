@@ -25,3 +25,11 @@ a {
     grid-template-columns: 1fr 3fr;
     position: fixed;
 }
+
+@media (max-width: 70rem) {
+    .box_container {
+        height: 100%;
+        position: static;
+        grid-template-columns: 1fr;
+    }
+}
