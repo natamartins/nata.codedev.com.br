@@ -1,10 +1,16 @@
 .box_posts-container {
     width: 100%;
-    max-width: 85%;
+    max-width: 95%;
     margin: auto;
     margin-top: 2rem;
     display: flex;
     flex-direction: column;
+
+    h1:nth-child(1) {
+        display: flex;
+        align-items: center;
+        gap: 5px;
+    }
 }
 
 .box_container-posts {
@@ -12,25 +18,16 @@
 }
 
 .box_posts {
-    border: 3px solid #f1f1f1;
+    border: 3px solid #878787;
+    background-color: #333;
     border-radius: 10px;
     padding: 1rem;
     cursor: pointer;
     animation: ease-in-out;
     margin-left: -0.5rem;
 
-    &:hover {
-        border-color: #551a8b;
-    }
-
     a {
         color: #f1f1f1;
-
-        &:hover {
-            color: #551a8b;
-            border-color: #551a8b;
-            scale: 1.01;
-        }
     }
 
     h1 {
@@ -44,6 +41,22 @@
         margin-bottom: 0.8rem;
     }
 
+    &:hover {
+        scale: 1.01;
+        border-color: #8349ba;
 
+        a {
+            color: #8349ba;
+        }
+    }
+}
 
+@media (max-width: 70rem) {
+    .box_container-posts {
+        margin-top: 10rem;
+    }
+
+    .box_posts {
+        width: 100%;
+    }
 }
