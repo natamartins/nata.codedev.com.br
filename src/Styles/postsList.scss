@@ -1,7 +1,6 @@
 .box_posts-container {
     width: 100%;
     max-width: 95%;
-    margin: auto;
     margin-top: 2rem;
     display: flex;
     flex-direction: column;
@@ -10,6 +9,7 @@
         display: flex;
         align-items: center;
         gap: 5px;
+        margin-left: 5rem;
     }
 }
 
@@ -24,7 +24,7 @@
     padding: 1rem;
     cursor: pointer;
     animation: ease-in-out;
-    margin-left: -0.5rem;
+    // margin-left: -0.5rem;
 
     a {
         color: #f1f1f1;
@@ -54,6 +54,10 @@
 @media (max-width: 70rem) {
     .box_container-posts {
         margin-top: 10rem;
+
+        h1:nth-child(1) {
+            margin-left: 3rem;
+        }
     }
 
     .box_posts {
