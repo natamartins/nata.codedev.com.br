@@ -1,4 +1,3 @@
-import AboutMe from "@/components/AboutMe";
 import PostsList from "@/components/PostsList";
 import { getStaticPaths } from "@/utils/getListPosts";
 import { Layout } from "lucide-react";

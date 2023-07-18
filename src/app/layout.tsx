@@ -2,7 +2,6 @@ import AboutMe from '@/components/AboutMe'
 import '../Styles/style.scss'
 import type { Metadata } from 'next'
 import { Roboto } from 'next/font/google'
-
 const roboto = Roboto(
   {
     subsets: ['latin'],
