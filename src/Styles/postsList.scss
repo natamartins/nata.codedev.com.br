@@ -64,3 +64,9 @@
         width: 100%;
     }
 }
+
+@media (max-width: 570px) {
+    .box_posts-container{
+        margin-top: 4rem;
+    }
+}

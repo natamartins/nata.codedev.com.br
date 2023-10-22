@@ -1,14 +1,16 @@
 import PostsList from "@/components/PostsList";
-import { getStaticPaths } from "@/utils/getListPosts";
+import { getListPosts } from "@/utils/getListPosts";
+import { sortPostsByDate } from "@/utils/sortPostsByDate";
 import { Layout } from "lucide-react";
 
 export default function Home() {
-  const markdownFiles: any = getStaticPaths()
-
+  const markdownFiles: any = getListPosts()
+  const sortedPosts = sortPostsByDate(markdownFiles);
+ 
   return (
     <div className="box_posts-container">
       <h1><Layout size={40} />Posts</h1>
-      {markdownFiles.map((post: any) => (
+      {sortedPosts.map((post: any) => (
         <PostsList key={post.slug} post={post} />
       ))}
     </div>

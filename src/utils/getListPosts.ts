@@ -1,9 +1,6 @@
 import fs from 'fs';
 import path from 'path';
 import matter from 'gray-matter';
-import { format } from 'date-fns';
-import { da, pt } from 'date-fns/locale';
-
 interface MarkdownPost {
     title: string
     date: string
@@ -13,8 +10,7 @@ interface MarkdownPost {
 }
 
 const markdownDirectory = path.join(process.cwd(), 'posts');
-
-export function getStaticPaths(): MarkdownPost[] {
+export function getListPosts(): MarkdownPost[] {
     const fileNames = fs.readdirSync(markdownDirectory);
 
     const markdownFiles: MarkdownPost[] = fileNames.map((fileName) => {
@@ -23,17 +19,12 @@ export function getStaticPaths(): MarkdownPost[] {
         const content = fs.readFileSync(filePath, 'utf-8');
         const matterResults = matter(content)
 
-        const date = format(new Date(matterResults.data.date), "dd 'de' MMMM 'de' yyyy", {
-            locale: pt
-        })
-
-
         return {
             title: matterResults.data.title,
-            date: date,
+            date: matterResults.data.date,
             subtitle: matterResults.data.subtitle,
             description: matterResults.data.description,
-            slug: fileName.replace(".md", ""),
+            slug: slug,
             fallback: false,
         };
     });

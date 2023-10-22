@@ -93,3 +93,14 @@
         margin-bottom: 0px;
     }
 }
+
+
+@media (max-width: 570px) {
+    .box_about-me {
+        flex-direction: column;
+    }
+
+    .box_posts-container{
+        margin-top: 4rem;
+    }
+}

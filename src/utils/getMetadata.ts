@@ -2,9 +2,9 @@ import fs from 'fs';
 import path from 'path';
 import matter from 'gray-matter';
 import { format } from 'date-fns';
-import { da, pt } from 'date-fns/locale';
+import { pt } from 'date-fns/locale';
 
-interface MarkdownPost {
+export type MarkdownPost = {
     title: string
     date: string
     subtitle: string
@@ -19,23 +19,19 @@ export function getMetadata(): MarkdownPost[] {
 
     const markdownFiles: MarkdownPost[] = fileNames.map((fileName) => {
         const slug = fileName.replace('.md', '');
+
         const filePath = path.join(markdownDirectory, fileName);
         const content = fs.readFileSync(filePath, 'utf-8');
         const matterResults = matter(content)
 
-        const date = format(new Date(matterResults.data.date), "dd 'de' MMMM 'de' yyyy", {
-            locale: pt
-        })
-
-
         return {
             title: matterResults.data.title,
-            date: date,
+            date: matterResults.data.date,
             subtitle: matterResults.data.subtitle,
             description: matterResults.data.description,
             slug: fileName.replace(".md", "")
         };
     });
 
-    return markdownFiles;
+    return markdownFiles
 }
