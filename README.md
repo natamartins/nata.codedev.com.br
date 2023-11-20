@@ -3,14 +3,13 @@
   Blog CodeDev!
 </h1>
     
-<h2 id="project">📁 Projeto </h2>
-<p>
-  Esse é meu  blog pessoal, um projeto bem legal que construir!
-A ideia é postar coisas que aprendo, dicas do mundo front e rotinas da minha vida!
+<h2 id="project">📁 Project </h2>
+<p>This is my personal blog, a really cool project to build!
+The idea is to post things I learn, tips from the front world and routines in my life!
 </p>
 
-<h2 id="tecnology">💻 Tecnologias</h2>
-Este projeto foi desenvolvido com as seguintes tecnologias:
+<h2 id="tecnology">💻 Technology</h2>
+This project was developed with the following technologies:
 
 - Markdown
 - Next.Js
@@ -20,34 +19,34 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 - Clean Code
 
 
-<h2 id="usage">🎯 Utilização</h2>
+<h2 id="usage">🎯 Use</h2>
 
-A aplicação está disponível para uso [aqui](https://nata-codedev-com-br.vercel.app/). Você também pode executá-la em sua máquina localmente. Certifique-se de ter o `Node.js` e o `npm` instalados antes de prosseguir com as etapas abaixo:
+The application is available for use [here](https://nata-codedev-com-br.vercel.app/). You can also run it on your machine locally. Make sure you have `Node.js` and `npm` installed before proceeding with the steps below:
 
-1. Clone o projeto:
+1. Clone the project:
 
 ```
 $ git clone https://github.com/natamartins/nata.codedev.com.br.git
 ```
 
-2. No seu terminal, acesse a pasta do projeto:
+2. In your termi, access the past folder:
 
 ```
 $ cd nata.codedev.com.br
 ```
 
-3. Instale as dependências:
+3. Install dependencies:
 
 ```
 $ npm install
 ```
 
-4. Inicie o projeto:
+4. Start project:
 
 ```
 $ npm run dev
 ```
-## rede social
+## social network
 <div style="display: flex;">
   <a href="https://www.linkedin.com/in/nata-martins/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="margin-right: 2vw" target="_blank"></a>
 </div>
