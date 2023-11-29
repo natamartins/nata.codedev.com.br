@@ -1,5 +1,5 @@
 ---
-title: "Como estudar de uma forma inteligente!!!"
+title: "Por que é tão difícil arrumar uma vaga"
 subtitle: "Espero que curtam!"
 date: 11/29/2023
 description: 'Neste post vou abordar um assunto importante para o mudo dev, confere ae!
@@ -7,13 +7,11 @@ description: 'Neste post vou abordar um assunto importante para o mudo dev, conf
 ---
 ## 🔰Introdução
 
-```
 Por que é tão difícil arrumar uma vaga!
 Essa profissão não é para mim!
 Chega já deu…
 
 Enfim, essas são algumas das frases bastante usadas na vida de muitos devs, por um tempo já fez parte da minha também, mas hoje, não mais!
-```
 
 ### 🚀 Fala devs tudo bem com vocês! Vamos pra mais um artigo de  dev desesperado
 
@@ -32,17 +30,13 @@ Passar meses e anos se dedicando, buscando vagas é realmente cansativo!
 Essa é uma das poucas realidades que te vendem por aí. Programação sim é uma profissão que te paga bem, mas eu diria que não, essa não é uma profissão para todos.
 Para chegar em um bom salário requer tempo, dedicação, muito estudo e  prática!
 
-```
 Para entrar nessa profissão é preciso saber disso, pois no meio do caminho a vontade de tentar outra coisas virar, pelo simples fato de que não é facil, pessoas costuma vender esse lado belo da programação, salários autos, ficar ricos kkkk Vai nessa. Como eu disse, para chegar em um bom salário, requer tempo.
-```
 
 Esse sem dúvida é um processo doloroso, é um dos piores problemas nessa fase, é o bloqueio mental: Seus pensamentos já estão indo para outra direção, logo essa área começa a ser uma grande dúvida na sua vida, não conseguir progredir com a mesma frequência que você conseguiria progredir em uma empresa acaba de desanimando.
 Mas essa é a verdadeira realidade,
 
-```
-não existe nada fácil, não existe caminho fácil ou curto. 
+não existe nada fácil, não existe caminho fácil ou curto.
 Existem processos necessários a se passar!
-```
 
 Tecnologia é para quem realmente quer! Não faça algo só por que muitos estão fazendo!
 Essa é uma área ótima, mas pra quem persistir nela. Aqui nada vem da noite pro dia.
@@ -50,16 +44,12 @@ Só se tu for genio, ai cabo, ganhou na loteria!
 
 ### E para resumir tudo: 🎯
 
-```
 Sim, há muitas vagas, porém as empresas optam por investir em desenvolvedores qualificados, acho que essa pode ser a melhor explicação no momento! Não há tempo para choro, se preparar é o melhor caminho.
-```
 
 Acredito que sera assim pela frente, ainda mais com o avanço das IAs: Cuidade em devs kk
 
-```
 Você realmente está qualificado?
 Essa pergunta me pegou também haha.
-```
 
 Vou deixar o link do artigo muito top, recomendo que leiam
 
