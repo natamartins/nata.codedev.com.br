@@ -5,6 +5,7 @@ export function sortPostsByDate(posts: any[]): any[] {
     }));
 
     const sortedPosts = postsWithDate.sort((a: any, b: any) => b.date - a.date);
+    console.log("Date format ==>", sortedPosts)
 
     return sortedPosts;
 }
