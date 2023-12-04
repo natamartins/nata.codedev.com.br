@@ -1,4 +1,5 @@
 ---
+id: 4
 title: "Como estudar de uma forma inteligente!!!"
 subtitle: "Espero que curtam!"
 date: 09/22/2023

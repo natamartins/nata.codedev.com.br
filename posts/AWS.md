@@ -1,4 +1,5 @@
 ---
+id: 6
 title: "Cloud Computing e AWS!"
 subtitle: "Hoje vou abordar sobre esses dois assuntos super importantes. Cloud Computing e AWS!"
 date: 11/30/2023

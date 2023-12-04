@@ -1,7 +1,7 @@
 'use client'
 import React, { useEffect, useRef } from 'react'
 
-const Comments = ({ title }: any) => {
+const Comments = ({ postId }: any) => {
     const commentBox: any = useRef(null)
 
     useEffect(() => {
@@ -10,9 +10,9 @@ const Comments = ({ title }: any) => {
         scriptEl.setAttribute('src', 'https://utteranc.es/client.js')
         scriptEl.setAttribute('crossorigin', 'anonymous')
         scriptEl.setAttribute('repo', 'natamartins/nata.codedev.com.br')
-        scriptEl.setAttribute('issue-term', 'title')
+        scriptEl.setAttribute('issue-term', `postId-${postId}`)
         commentBox.current.replaceChildren(scriptEl)
-    }, [title])
+    }, [postId])
 
     return <div className='box_comment' ref={commentBox} />
 }

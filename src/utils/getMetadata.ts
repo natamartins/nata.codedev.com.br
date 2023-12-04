@@ -25,6 +25,7 @@ export function getMetadata(): MarkdownPost[] {
         const matterResults = matter(content)
 
         return {
+            id: matterResults.data.id,
             title: matterResults.data.title,
             date: matterResults.data.date,
             subtitle: matterResults.data.subtitle,
