@@ -1,13 +1,10 @@
 import { getStaticProps } from '@/utils/getPost'
 import { CalendarDays, MessageSquarePlus, MoveLeft } from 'lucide-react'
-
 import Markdown from 'markdown-to-jsx'
 import Link from 'next/link'
 import React from 'react'
-
 import Comment from '@/components/Comment'
 import { getMetadata } from '@/utils/getMetadata'
-
 interface Type {
     params: {
         slug: string
@@ -40,8 +37,8 @@ const PostPge = ({ params }: Type) => {
                 </Markdown>
             </div>
             <div className='box_post-comment'>
-                <h1><MessageSquarePlus size={30} />Comentários</h1>
-                <Comment />
+                <h2><MessageSquarePlus size={30} />Comentários</h2>
+                <Comment postId={post.data.id} />
             </div>
             <footer className='box_post-footr'>
                 <p>@Nata.Codedev - ©2023</p>
