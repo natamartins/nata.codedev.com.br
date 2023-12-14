@@ -6,9 +6,9 @@ date: 09/22/2023
 description: 'Neste post vou abordar um assunto importante para o mudo dev, confere ae!
 '
 ---
-## 🔰Introdução
+# 🔰Introdução
 
-Como estudar de uma forma inteligente!!!
+> Como estudar de uma forma inteligente!!!
 
 Fala devs tudo joia com vocês!
 Hoje quero trazer algo breve para ajudar em seus desenvolvimentos dos estudos

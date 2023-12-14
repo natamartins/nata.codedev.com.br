@@ -6,23 +6,23 @@ date: 11/30/2023
 description: 'O que é Cloud Computing e AWS, para que servem? Hoje vamos abordar sobre esses assuntos! Pegue um coffee é valos lá'
 ---
 
-# ☁️ Cloud Computing e AWS 
+# ☁️ Cloud Computing e AWS
 
-#### Cloud Computing(computação em nuvem):
+### Cloud Computing(computação em nuvem)
 
 Antes de conhecer um pouco sobre o AWS, é importante conhecermos um pouco sobre o cloud computing.
 
 Resumindo: Cloud Computing é a entrega sob demanda de recursos de TI pela internet com preços pré-pagos(significa que os usuários pagam apenas pelos recursos que usam), eliminando a necessidade de um grande  investimento em infraestrutura física!
 
-Basicamente um garçom nas nuvens, que traz serviços onlines!😄
+> Basicamente um garçom nas nuvens, que traz serviços onlines!😄
 
-#### AWS(Amazon Web Services):
+#### AWS(Amazon Web Services)
 
 aws é uma plataforma de computação em nuvem fornecida pela Amazon.
 Ela oferece uma grande quantidade de serviços de infraestrutura, armazenamento,
 banco de dados, análise, inteligência artificial, segurança e muito mais…
 
-#### As principais características do aws são:
+#### As principais características do aws são
 
 - Elasticidade e Escalabilidade: Os usuários podem escalar recursos para cima ou para baixo conforme necessário, pagando apenas pelos recursos utilizados.
 Resumindo, os usuarios podem para de usar um serviço temporário e depois voltar com o mesmo
@@ -45,6 +45,6 @@ Com a aws você já tem tudo isso, a única coisa que tu precisa, é escolher se
 Falar sobre os a aws e seus recursos, requer muitos artigos haha
 Esse é um breve resumo sobre o aws, ao longo do tempo trago mais sobre os serviços mais usados e como eles podem ser úteis no seu dia a dia!
 
-### Se você leu até aqui, Many Thanks!
+### Se você leu até aqui, Many Thanks
 
 ![cat](https://media.giphy.com/media/12HZukMBlutpoQ/giphy.gif).

@@ -13,8 +13,8 @@ const AboutMe = () => {
                 <Image src={Img} alt="" />
                 <div className='box_about-me-info'>
                     <h1>Natã Martins</h1>
-                    <p>Software Developer</p>
-                    <p>Escrevo sobre o mundo front end e vida pessoal.</p>
+                    <p>Frontend Developer</p>
+                    <p>Escrevo sobre o mundo frontend e vida pessoal.</p>
                 </div>
             </div>
             <div className="box_about-spotfy">
@@ -35,9 +35,9 @@ const AboutMe = () => {
                 <Link href='https://github.com/natamartins' target='__blank' >
                     <Github size={40} />
                 </Link>
-                <Link href='https://www.instagram.com/nata.codedevjr/?theme=dark' target='__blank' >
+                {/* <Link href='https://www.instagram.com/nata.codedevjr/?theme=dark' target='__blank' >
                     <Instagram size={40} />
-                </Link>
+                </Link> */}
             </div>
         </div>
     )
