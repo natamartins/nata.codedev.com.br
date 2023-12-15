@@ -6,9 +6,9 @@ date: 11/29/2023
 description: 'Neste post vou abordar um assunto importante para o mudo dev, confere ae!
 '
 ---
-## 🔰Introdução
+# 🔰Introdução
 
-Por que é tão difícil arrumar uma vaga!
+> Por que é tão difícil arrumar uma vaga!
 Essa profissão não é para mim!
 Chega já deu…
 
@@ -19,7 +19,7 @@ Enfim, essas são algumas das frases bastante usadas na vida de muitos devs, por
 Recentemente li um artigo muito bom, sobre este assunto, no qual irei abordar hoje!
 Se os desenvolvedores de software são tão procurados, por que é tão difícil conseguir um emprego de desenvolvedor hoje em dia?
 
-<b>Essa é uma boa pergunta não!🧐</b>
+> Essa é uma boa pergunta não!🧐
 
 Vimos que durante e pós pandemia, o mundo mudou,  vimos um crescimento muito grande no trabalho home office,  empresas que quebraram é entre outras coisas!
 É vindo também com a onda do layoff, onde algumas empresas grandes limparam suas folhas de pagamentos.
@@ -36,8 +36,7 @@ Para entrar nessa profissão é preciso saber disso, pois no meio do caminho a v
 Esse sem dúvida é um processo doloroso, é um dos piores problemas nessa fase, é o bloqueio mental: Seus pensamentos já estão indo para outra direção, logo essa área começa a ser uma grande dúvida na sua vida, não conseguir progredir com a mesma frequência que você conseguiria progredir em uma empresa acaba de desanimando.
 Mas essa é a verdadeira realidade,
 
-não existe nada fácil, não existe caminho fácil ou curto.
-Existem processos necessários a se passar!
+> não existe nada fácil, não existe caminho fácil ou curto. Existem processos necessários a se passar!
 
 Tecnologia é para quem realmente quer! Não faça algo só por que muitos estão fazendo!
 Essa é uma área ótima, mas pra quem persistir nela. Aqui nada vem da noite pro dia.
@@ -49,7 +48,7 @@ Sim, há muitas vagas, porém as empresas optam por investir em desenvolvedores 
 
 Acredito que sera assim pela frente, ainda mais com o avanço das IAs: Cuidade em devs kk
 
-Você realmente está qualificado?
+__Você realmente está qualificado?__
 Essa pergunta me pegou também haha.
 
 Vou deixar o link do artigo muito top, recomendo que leiam

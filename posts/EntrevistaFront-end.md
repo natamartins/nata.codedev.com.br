@@ -6,7 +6,7 @@ date: 08/15/2023
 description: "Entrevista com ChatGPT!"
 ---
 
-## 🔰Intro:
+# 🔰Intro:
 
 Fala devs tudo joia, fiz uma simulação de enrtevista com o ChatGPT.
 Estar preparado é uma escolha!

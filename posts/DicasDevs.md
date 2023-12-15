@@ -6,10 +6,11 @@ date: 07/18/2023
 description: 'Algumas dicas para você que está começando agora no mundo da programaçaõ!'
 ---
 
-## 🔰Intro
+# 🔰Intro
 
 A maioria dos devs tem uma tendência maior a começar a programar como front-end, o porquê não sei kk
-Mas vamos lá, começar nesse vasto universo da programação, sempre foi vendido como algo fácil né? Sim, mas não, não é fácil, assim como nada na vida é fácil!
+Mas vamos lá, começar nesse vasto universo da programação, sempre foi vendido como algo fácil né? Sim, mas não, não é fácil.
+> Assim como nada na vida é fácil!
 Tudo depende do seu objetivo e metas, apesar de ser uma profissão que te paga bem, exige muito de você também! E aí tá  preparado para se tornar um dev de verdade?
 
 ## 🧑‍💻Mundo dev

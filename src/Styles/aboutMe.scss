@@ -4,14 +4,15 @@
     justify-content: center;
     align-items: center;
 
+    background-color: #333;
     border-right: 3px solid #888;
     padding: 1rem;
     text-align: center;
 
 
     img {
-        width: 12rem;
-        height: 12rem;
+        width: 10rem;
+        height: 10rem;
         border-radius: 50%;
 
         border: 3px solid #888;
@@ -32,6 +33,10 @@
     display: flex;
     gap: 2rem;
     bottom: 1rem;
+
+    a{
+        color: #222;
+    }
 
     a:hover {
         color: #f1f1f1;
@@ -100,7 +105,7 @@
         flex-direction: column;
     }
 
-    .box_posts-container{
+    .box_posts-container {
         margin-top: 4rem;
     }
 }
